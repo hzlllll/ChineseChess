@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\Chess.o
+./debug\dialog.o
+./debug\qrc_13.o
+./debug\qrc_14.o
+./debug\qrc_16.o
+./debug\qrc_18.o
+./debug\qrc_image.o
+./debug\moc_mainwindow.o
+./debug\moc_dialog.o
+);
